@@ -2,4 +2,3 @@
 
 - I'm working on things related to Games / Websites / Software / AI. Your support is hugely appreciated!
 - I'm also looking for work/internship from local or international companies to support me and my family.
-- See all my links at [my website](https://ikmalsaid.github.io). Thank you!
