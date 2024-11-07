@@ -1,6 +1,8 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
 
-I am developing AI-driven solutions through web applications, games, and digital experiences. Current unreleased projects include:
+I am developing AI-driven solutions through web applications, games, and digital experiences.
+
+Current unreleased projects include:
 
 - STELLA AI Studio (a complete generative AI imaging suite)
 - STELLA Web Services (AI web services for online clients)
